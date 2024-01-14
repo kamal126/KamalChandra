@@ -1,5 +1,5 @@
 [![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif)](https://github.com/Sahilz9) 
-<h1 align="center">Hi,<img alt="Coding" width="30" height="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">I'm Sahil Yadav</h1>
+<h1 align="center">Hi,<img alt="Coding" width="30" height="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">I'm Kamal Chandr</h1>
 <h3 align="center">I am passionate about utilizing technology to solve complex problems and make a positive impact on society. I am constantly seeking new challenges and opportunities to grow.</h3>
 
 
@@ -21,11 +21,11 @@
 <h3 align="left">Connect with me:</h3>
   
 <p align="left">
-<a href="https://dev.to/@sahilz9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@sahilz9" height="30" width="40" /></a>
-<a href="https://twitter.com/@stuart_1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@stuart_1411" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sahil-yadav-85b04b218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sahil-yadav-85b04b218" height="30" width="40" /></a>
-<a href="https://instagram.com/sahil_yadav_here_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil_yadav_here_" height="30" width="40" /></a>
-<a href="https://discord.gg/sahilyadav#0739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sahilyadav#0739" height="30" width="40" /></a>
+<a href="https://dev.to/@kamal126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@kamal126" height="30" width="40" /></a>
+<a href="https://twitter.com/@techoford" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@techoford1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kamalchandra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamalchandra/" height="30" width="40" /></a>
+<a href="https://instagram.com/kamal_chandra_officia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kamal_chandra_official1" height="30" width="40" /></a>
+<a href="https://discord.gg/kamalchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kamalchandra#0739" height="30" width="40" /></a>
 </p>
 
 ### ✍️ Dev Quote
